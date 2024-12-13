@@ -43,14 +43,14 @@ class Person():
         return self.retalionships
     
 
-tine = Person('Tine')
-marlon = Person('Marlon')
-lydi = Person('Lydi')
-dieter = Person('Dieter')
-tine.set_relation(marlon, 'sibling')
-tine.set_relation(lydi, 'sibling')
-tine.set_relation(marlon, 'sibling')
-tine.set_relation(dieter, 'grandparent')
-print(tine)
-print(dieter)
+# tine = Person('Tine')
+# marlon = Person('Marlon')
+# lydi = Person('Lydi')
+# dieter = Person('Dieter')
+# tine.set_relation(marlon, 'sibling')
+# tine.set_relation(lydi, 'sibling')
+# tine.set_relation(marlon, 'sibling')
+# tine.set_relation(dieter, 'grandparent')
+# print(tine)
+# print(dieter)
     
